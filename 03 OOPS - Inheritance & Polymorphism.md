@@ -204,7 +204,7 @@ class Main(){
 
 ### Method Overloading
 
-Method overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists.
+Method overloading is a feature that allows a class to have **more than one method having the same name, if their argument lists are different**. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists.
 
 Let's take an example of a class that has two methods having the same name but different in parameters.
 
