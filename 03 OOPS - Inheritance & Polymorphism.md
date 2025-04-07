@@ -235,9 +235,9 @@ Here, an overridden child class method is called through its parent's reference.
 
 Runtime polymorphism in Java occurs when we have two or more classes, and all are interrelated through inheritance. To achieve runtime polymorphism, we must build an "IS-A" relationship between classes and override a method.
 
-If a child class has a method as its parent class, it is called method overriding.
+**If a child class has a method as its parent class, it is called method overriding.**
 
-If the derived class has a specific implementation of the method that has been declared in its parent class is known as method overriding.
+**If the derived class has a specific implementation of the method that has been declared in its parent class is known as method overriding.**
 
 Rules for overriding a method in Java
 * There must be inheritance between classes.
