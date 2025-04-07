@@ -183,7 +183,6 @@ public class Student extends User {
 }
 ```
 
-The Student class inherits the name and email properties from the User class. The Student class also has its own properties batchName and psp. The Student class can be used in place of the User class, because the Student class is a subtype of the User class. The following is an example of how this works:
 
 ```java
 User user = new Student();
@@ -196,7 +195,7 @@ class Main(){
     }
     public static void Main(){
         User u = new User();
-        Student s = new User();
+        User u = new Student();
         makePayment(u);
         makePayment(s);
     }
